@@ -1,6 +1,7 @@
 # @tahanabavi/typesocket
 
-[![npm version](https://img.shields.io/npm/v/@tahanabavi/typesocket.svg)](https://www.npmjs.com/package/@tahanabavi/typesocket) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
+![npm version](https://img.shields.io/badge/socket.io-informational?style=flat&logo=npm&logoColor=white)
+![npm version](https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
 A **Type-safe Socket.IO wrapper** for JavaScript/TypeScript. It provides Zod-based event validation, middleware support, queued emits, environment-aware configuration, and React-friendly hooks — all designed to make real-time development safer and easier.
 
