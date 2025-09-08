@@ -6,12 +6,8 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "files": [
-    "/dist",
-    "src/types-template.ts"
+    "/dist"
   ],
-  "bin": {
-    "typesocket": "dist/cli.js"
-  },
   "scripts": {
     "build": "tsup",
     "test": "jest",
