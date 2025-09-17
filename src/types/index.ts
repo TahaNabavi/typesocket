@@ -19,6 +19,7 @@ export type SocketConfig = {
   reconnection: boolean;
   reconnectionAttempts: number;
   reconnectionDelay: number;
+  transport?: string[];
   auth?: Record<string, unknown>;
   query?: Record<string, string>;
 };
