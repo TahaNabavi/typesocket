@@ -1,7 +1,7 @@
 {
   "name": "@tahanabavi/typesocket",
   "description": "Type-safe Socket.IO wrapper for real-time apps with event validation, middleware support, and queueing.",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
